@@ -48,7 +48,7 @@ grocy is a web-based self-hosted groceries & household management solution for y
 
 ## Developer info
 
-Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/grocy_ynh/tree/testing).
+Please send your pull request to the [testing branch](https://github.com/7357-2022/hw2k_grocy_ynh/tree/testing).
 
 To try the testing branch, please proceed like that.
 
