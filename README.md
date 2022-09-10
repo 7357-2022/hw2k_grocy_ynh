@@ -52,7 +52,9 @@ To try the testing branch, please proceed like that.
 
 ``` bash
 sudo yunohost app install https://github.com/7357-2022/hw2k_grocy_ynh/tree/testing --debug
+```
 or
+```
 sudo yunohost app upgrade grocy -u https://github.com/7357-2022/hw2k_grocy_ynh/tree/testing --debug
 ```
 
